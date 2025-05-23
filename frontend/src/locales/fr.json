@@ -1,0 +1,346 @@
+{
+    "nav": {
+      "home": "Accueil",
+      "offers": "Offres",
+      "favorites": "Favoris",
+      "etat": "Etat Soumission",
+      "login": "Connexion",
+      "howItWorks": "Etapes",
+      "suggestions": "Suggestions"
+    }
+    ,
+  "home": {
+    "hero": {
+      "title": "Portail des appels d’offres du secteur de la Poste et des Télécommunications",
+      "subtitle": "Consultez et gérez facilement les appels d’offres nationaux.",
+      "cta1": "Voir les Offres",
+      "cta2": "Tableau de bord"
+    }
+,
+        "infoCard1": {
+          "title": "Portail Unifié",
+          "text": "Accès centralisé à toutes les procédures de marchés publics du secteur des Postes et Télécommunications."
+        },
+        "infoCard2": {
+          "title": "Espace Jeunes Entrepreneurs",
+          "features": [
+            "Accompagnement personnalisé",
+            "Procédures simplifiées",
+            "Alertes ciblées"
+          ]
+        },
+        "infoCard3": {
+          "title": "Conformité Légale",
+          "text": "Conforme au décret exécutif n°15-247 du 16/09/2015 - Complémentaire aux canaux officiels"
+        },
+        "cta": "Consulter les offres",
+        "description": {
+          "title": "Portail des Télécommunications",
+          "lead": "Décrochez des marchés publics dans le secteur des télécommunications grâce à notre plateforme innovante.",
+          "features": [
+            "Accès égal et transparent aux appels d'offres",
+            "Support dédié aux jeunes entrepreneurs",
+            "Interface interactive et collaborative"
+          ]
+        },
+        "partners": {
+          "title": "Nos Partenaires Institutionnels"
+        }
+      },
+      "footer": {
+        "text": "Portail officiel - Ministère des Postes et Télécommunications ",
+        "suggestionLink": "Suggestion",
+        "legalLink": "Cadre Legal",
+        "modalTitle": "Veuillez saisir vos suggestions",
+        "emailPlaceholder": "Votre email",
+        "suggestionPlaceholder": "Votre suggestion",
+        "sendButton": "Envoyer"
+      },
+      "auth": {
+        "title": "Authentification",
+        "emailPlaceholder": "Email",
+        "passwordPlaceholder": "Mot de passe",
+        "loginButton": "Connexion",
+        "rememberMe": "Se souvenir de moi",
+        "forgotPassword": "Mot de passe oublié ?",
+        "notRegistered": "Pas encore inscrit ?"
+      },
+      "registration": {
+        "steps": {
+          "accountInfo": "Identifiants du compte",
+          "repContact": "Coordonnées Représentant",
+          "companyInfo": "Informations Entreprise"
+        },
+        "accountInfo": {
+          "title": "Identifiants du compte",
+          "emailPlaceholder": "Email",
+          "passwordPlaceholder": "Mot de passe",
+          "confirmPasswordPlaceholder": "Confirmation mot de passe",
+          "nextButton": "Suivant"
+        },
+        "repContact": {
+          "title": "Coordonnées Représentant",
+          "companyNamePlaceholder": "Nom de l'entreprise",
+          "selectCivility": "--Civilité--",
+          "repLastNamePlaceholder": "Nom du représentant",
+          "repFirstNamePlaceholder": "Prénom",
+          "positionPlaceholder": "Fonction",
+          "phonePlaceholder": "Numéro de téléphone",
+          "selectCountry": "--Pays--",
+          "selectWilaya": "--Wilaya--",
+          "addressPlaceholder": "Adresse",
+          "prevButton": "Précédent",
+          "nextButton": "Suivant"
+        },
+        "companyInfo": {
+          "title": "Informations Entreprise",
+          "selectActivity": "--Activité--",
+          "selectCategory": "--Catégorie de l'entreprise--",
+          "tradeCodePlaceholder": "Code Commerce",
+          "nifPlaceholder": "NIF",
+          "nisPlaceholder": "NIS",
+          "ninPlaceholder": "NIN",
+          "selectEmployeeCount": "--Nombre d'employé--",
+          "employeeCount": {
+            "lessThan10": "moins de 10",
+            "from10to49": "de 10 à 49",
+            "from50to249": "de 50 à 249",
+            "moreThan250": "plus de 250"
+          },
+          "prevButton": "Précédent",
+          "submitButton": "S'inscrire"
+        }
+      }
+      ,
+      "tenders": {
+        "callForTender": "Appel d'offre",
+        "consultationNotice": "Avis de consultation",
+        "manifestationNotice": "Avis de manifestation",
+        "searchTitle": "Rechercher un appel d’offre",
+        "searchPlaceholder": "Rechercher une offre...",
+        "selectWilaya": "-- Wilayas --",
+        "selectCompany": "-- Entreprises ou Organismes --",
+        "noTenders": "Aucune offre disponible.",
+        "logoAlt": "Logo de l'entreprise",
+        "na": "N/A",
+        "titleNotAvailable": "Titre non disponible",
+        "locationIconAlt": "Icône de localisation",
+        "locationNotSpecified": "Non spécifié",
+        "descriptionNotAvailable": "Aucune description disponible.",
+        "submit": "Soumettre",
+        "viewDetails": "Voir Détails",
+        "annulationDocument": "Voir Annulation",
+        "prorogationDocument": "Voir Prorogation",
+        "infructueuxDocument": "Voir Infructuosité"
+        
+   
+      },
+      "statut": "Statut",
+      "status": {
+        "expired": "Expiré",
+        "ongoing": "En cours",
+        "notSpecified": "Non spécifié",
+        "Attribué": "Attribué",
+        "En Cours": "En cours",
+        "Annulé": "Annulé",
+        "infructueux": "Infructueux"
+      },
+   
+     
+      "information_offre": "Informations sur l'offre",
+      "type_offre": "Type d'offre",
+      "choisissez_type": "Choisissez le type",
+      "appel_offre": "Appel d'offre",
+      "avis_consultation": "Avis de consultation",
+      "avis_manifestation": "Avis de manifestation",
+      "langue": "Langue",
+      "francais": "Français",
+      "arabe": "Arabe",
+      "etat_offre": "État de l'offre",
+      "en_cours": "En Cours",
+      "valide": "Attribué",
+      "infructueux": "Infructueux",
+      "annule": "Annulé",
+      "wilaya": "Wilaya",
+      "wilayas": {
+        "Adrar": "Adrar",
+        "Chlef": "Chlef",
+        "Laghouat": "Laghouat",
+        "Oum El Bouaghi": "Oum El Bouaghi",
+        "Batna": "Batna",
+        "Bejaia": "Béjaïa",
+        "Biskra": "Biskra",
+        "Béchar": "Béchar",
+        "Blida": "Blida",
+        "Bouira": "Bouira",
+        "Tamanrasset": "Tamanrasset",
+        "Tébessa": "Tébessa",
+        "Tlemcen": "Tlemcen",
+        "Tiaret": "Tiaret",
+        "Tizi Ouzou": "Tizi Ouzou",
+        "Alger": "Alger",
+        "Djelfa": "Djelfa",
+        "Jijel": "Jijel",
+        "Sétif": "Sétif",
+        "Saïda": "Saïda",
+        "Skikda": "Skikda",
+        "Sidi Bel Abbes": "Sidi Bel Abbès",
+        "Annaba": "Annaba",
+        "Guelma": "Guelma",
+        "Constantine": "Constantine",
+        "Médéa": "Médéa",
+        "Mostaganem": "Mostaganem",
+        "M'Sila": "M'Sila",
+        "Mascara": "Mascara",
+        "Ouargla": "Ouargla",
+        "Oran": "Oran",
+        "El Bayadh": "El Bayadh",
+        "Illizi": "Illizi",
+        "Bordj Bou Arreridj": "Bordj Bou Arréridj",
+        "Boumerdes": "Boumerdès",
+        "El Tarf": "El Tarf",
+        "Tindouf": "Tindouf",
+        "Tissemsilt": "Tissemsilt",
+        "El Oued": "El Oued",
+        "Khenchela": "Khenchela",
+        "Souk Ahras": "Souk Ahras",
+        "Tipaza": "Tipaza",
+        "Mila": "Mila",
+        "Aïn Defla": "Aïn Defla",
+        "Naâma": "Naâma",
+        "Aïn Témouchent": "Aïn Témouchent",
+        "Ghardaïa": "Ghardaïa",
+        "Relizane": "Relizane",
+        "Timimoun": "Timimoun",
+        "Bordj Badji Mokhtar": "Bordj Badji Mokhtar",
+        "Ouled Djellal": "Ouled Djellal",
+        "Béni Abbès": "Béni Abbès",
+        "In Salah": "In Salah",
+        "In Guezzam": "In Guezzam",
+        "Touggourt": "Touggourt",
+        "Djanet": "Djanet",
+        "El M'Ghair": "El M'Ghair",
+        "El Menia": "El Menia"
+      },
+      "choisissez_wilaya": "Choisissez une wilaya",
+      "numero_offre": "Numéro de l'offre",
+      "exemple_numero_offre": "Exemple : 12345",
+      "titre_offre": "Titre de l'offre",
+      "exemple_titre_offre": "Exemple : Projet de construction",
+      "niveau": "Niveau",
+      "choisissez_niveau": "Choisissez le niveau",
+      "national": "National",
+      "international": "International",
+      "date_publication": "Date de publication",
+      "date_limite": "Date limite",
+      "date_prorogation": "Date de prorogation",
+      "description": "Description",
+      "detaillez_informations": "Détaillez les informations ici...",
+      "etat": "État",
+      "en_redaction": "En rédaction",
+      "publiee": "Publiée",
+      "supprimee": "Supprimée",
+      "ajouter_lots": "Ajouter des lots",
+      "liste_lots": "Liste des lots",
+      "numero_lot": "Numéro du lot",
+      "exemple_numero_lot": "Exemple : 1",
+      "description_lot": "Description du lot",
+      "description_lot_placeholder": "Entrez la description du lot ici...",
+      "ajouter_un_lot": "Ajouter un lot",
+      "document_pdf": "Document PDF",
+      "document": "Document",
+      "voir_document": "Voir le document",
+      "modifier": "Modifier",
+      "document_annulation": "Document d'annulation",
+      "document_prorogation": "Document de prorogation",
+      "document_infructueux": "Document d'infructuosité",
+ 
+      "journal": "Document du journal",
+      "header": {
+        "mainTitle": "Bienvenue sur le portail officiel",
+        "subTitle": "des appels d’offres",
+        "tagline": "Un accès équitable et transparent aux marchés du secteur de la Poste & Télécommunications",
+        "consultOffers": "Consulter les offres",
+        "createAccount": "Créer un compte"
+      },
+      "lot": {
+        "number": "Numéro du lot",
+        "description": "Description du lot",
+        "status": "Statut du lot",
+        "Attribué": "Attribué",
+        "En Cours": "En cours", 
+        "Annulé": "Annulé",
+        "statuses": {
+          "open": "Ouvert",
+          "closed": "Fermé",
+          "inProgress": "En cours",
+          "notSpecified": "Non spécifié"
+        }
+      },
+      "howItWorks": { 
+         "processTitle": "Notre Processus en étapes claires",
+        "step": "Étape",
+        "createAccount": {
+          "title": "Créer un compte",
+          "desc": "Inscrivez-vous pour accéder à toutes les fonctionnalités."
+        },
+        "searchOffers": {
+          "title": "Rechercher des offres",
+          "desc": "Trouvez les offres qui correspondent à vos besoins."
+        },
+        "submitDocuments": {
+          "title": "Soumettre des documents",
+          "desc": "Téléchargez vos documents en toute simplicité."
+        },
+        "trackSubmission": {
+          "title": "Suivre vos soumissions",
+          "desc": "Gardez un œil sur l'état de vos soumissions."
+        }
+         
+      },
+      "improve_portal": "Améliorez le portail",
+      "share_suggestions": "Partagez vos suggestions pour façonner l'évolution de la plateforme.",
+      "every_contribution_counts": "Chaque contribution compte",
+      "email": "Email",
+      "your_idea": "Votre idée géniale",
+      "submit_suggestion": "Envoyer la suggestion",
+   
+    "favorites": {
+      "title": "Vos favoris"
+    },
+    "soumissions": {
+      "title": "Vos soumissions"
+     
+  },
+  "submissionModal": {
+    "title": "Soumission d'offre",
+    "userInfo": "Informations Utilisateur",
+    "name": "Nom",
+    "email": "Email",
+    "phone": "Téléphone",
+    "civility": "Civilité",
+    "function": "Fonction",
+    "offerDetails": "Détails de l'Offre",
+    "offerNumber": "Numéro",
+    "offerTitle": "Titre",
+    "description": "Description",
+    "publicationDate": "Date de publication",
+    "deadline": "Date limite",
+    "extensionDate": "Date de prorogation",
+    "offerType": "Type d'offre",
+    "wilaya": "Wilaya",
+    "offerStatus": "Etat de l'offre",
+    "document": "Document",
+    "viewDocument": "Voir le document",
+    "additionalDetails": "Détails de la soumission (optionnels)",
+    "enterDetails": "Entrez d'autres détails concernant votre soumission...",
+    "submissionDocuments": "Documents de soumission",
+    "documentTitle": "Titre du document",
+    "removeDocument": "Supprimer ce document",
+    "addDocument": "Ajouter un document",
+    "cancel": "Annuler",
+    "submit": "Soumettre"
+  }
+}
+
+

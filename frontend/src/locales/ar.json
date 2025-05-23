@@ -1,0 +1,344 @@
+{
+    "nav": {
+      "home": "الرئيسية",
+      "offers": "العروض",
+      "favorites": "المفضلة",
+      "login": "تسجيل الدخول",
+      "register": "إنشاء حساب",
+      "etat": "حالة التقديم",
+      "howItWorks": "خطوات العمل",
+      "suggestions": "اقتراحات"
+    }
+  
+  ,
+    "home": {
+      "hero": {
+        "title": "الشفافية، العدالة والوصول الحر إلى الشراء العام",
+        "subtitle": "تشجيع مبادرة الشباب"
+      },
+      "infoCard1": {
+        "title": "البوابة الموحدة",
+        "text": "الوصول المركزي لجميع إجراءات المشتريات العامة في قطاع البريد والاتصالات."
+      },
+      "infoCard2": {
+        "title": "فضاء رواد الأعمال الشباب",
+        "features": [
+          "المرافقة الشخصية",
+          "إجراءات مبسطة",
+          "تنبيهات موجهة"
+        ]
+      },
+      "infoCard3": {
+        "title": "الامتثال القانوني",
+        "text": "متوافق مع المرسوم التنفيذي رقم 15-247 بتاريخ 16/09/2015 - تكميلي للقنوات الرسمية"
+      },
+      "cta": "استعرض العروض",
+      "description": {
+        "title": "بوابة الاتصالات",
+        "lead": "احصل على صفقات الشراء العام في قطاع الاتصالات بفضل منصتنا المبتكرة.",
+        "features": [
+          "الوصول المتكافئ والشفاف لدعوات العروض",
+          "دعم مخصص لرواد الأعمال الشباب",
+          "واجهة تفاعلية وتعاونية"
+        ]
+      },
+      "partners": {
+        "title": "شركاؤنا المؤسسيون"
+      }
+    }
+    ,
+        "footer": {
+          "text": "البوابة الرسمية - وزارة البريد والاتصالات ",
+          "suggestionLink": "اقتراح",
+          "legalLink": "الإطار القانوني",
+          "modalTitle": "الرجاء إدخال اقتراحاتك",
+          "emailPlaceholder": "بريدك الإلكتروني",
+          "suggestionPlaceholder": "اقتراحك",
+          "sendButton": "إرسال"
+        }
+      
+      , 
+       "auth": {
+        "title": "تسجيل الدخول",
+        "emailPlaceholder": "البريد الإلكتروني",
+        "passwordPlaceholder": "كلمة المرور",
+        "loginButton": "تسجيل الدخول",
+        "rememberMe": "تذكرني",
+        "forgotPassword": "هل نسيت كلمة المرور؟",
+        "notRegistered": "غير مسجل بعد؟"
+      }
+      ,
+        "registration": {
+          "steps": {
+            "accountInfo": "بيانات الحساب",
+            "repContact": "تفاصيل الممثل",
+            "companyInfo": "معلومات الشركة"
+          },
+          "accountInfo": {
+            "title": "بيانات الحساب",
+            "emailPlaceholder": "البريد الإلكتروني",
+            "passwordPlaceholder": "كلمة المرور",
+            "confirmPasswordPlaceholder": "تأكيد كلمة المرور",
+            "nextButton": "التالي"
+          },
+          "repContact": {
+            "title": "تفاصيل الممثل",
+            "companyNamePlaceholder": "اسم الشركة",
+            "selectCivility": "--التحية--",
+            "repLastNamePlaceholder": "اسم العائلة للممثل",
+            "repFirstNamePlaceholder": "الاسم الأول",
+            "positionPlaceholder": "الوظيفة",
+            "phonePlaceholder": "رقم الهاتف",
+            "selectCountry": "--الدولة--",
+            "selectWilaya": "--الولاية--",
+            "addressPlaceholder": "العنوان",
+            "prevButton": "السابق",
+            "nextButton": "التالي"
+          },
+          "companyInfo": {
+            "title": "معلومات الشركة",
+            "selectActivity": "--النشاط--",
+            "selectCategory": "--تصنيف الشركة--",
+            "tradeCodePlaceholder": "رمز التجارة",
+            "nifPlaceholder": "الرقم الضريبي",
+            "nisPlaceholder": "NIS",
+            "ninPlaceholder": "NIN",
+            "selectEmployeeCount": "--عدد الموظفين--",
+            "employeeCount": {
+              "lessThan10": "أقل من 10",
+              "from10to49": "من 10 إلى 49",
+              "from50to249": "من 50 إلى 249",
+              "moreThan250": "أكثر من 250"
+            },
+            "prevButton": "السابق",
+            "submitButton": "التسجيل"
+          }
+        },
+
+      "tenders": {
+    "callForTender": "إعلان مناقصة",
+    "consultationNotice": "إشعار استشارة",
+    "manifestationNotice": "إشعار تعبير عن اهتمام",
+    "searchTitle": "البحث ",
+    "searchPlaceholder": "ابحث عن دعوة تقديم عطاء...",
+    "selectWilaya": "-- الولايات --",
+    "selectCompany": "-- الشركات أو الهيئات --",
+    "noTenders": "لا توجد عروض متاحة.",
+    "logoAlt": "شعار الشركة",
+    "na": "غير متوفر",
+    "titleNotAvailable": "العنوان غير متوفر",
+    "locationIconAlt": "أيقونة الموقع",
+    "locationNotSpecified": "غير محدد",
+    "descriptionNotAvailable": "لا يوجد وصف متاح.",
+    "submit": "إرسال",
+    "viewDetails": "عرض التفاصيل",
+    "annulationDocument": "عرض الإلغاء",
+    "prorogationDocument": "عرض التمديد",
+    "infructueuxDocument": "عرض عدم الجدوى"
+  },
+  "statut": "الحالة",
+  "status": {
+    "expired": "منتهي",
+    "ongoing": "قيد التنفيذ",
+    "notSpecified": "غير محدد",
+    "Attribué": "مخصص",
+    "En Cours": "قيد التنفيذ",
+    "Annulé": "ملغى",
+    "Infructueux": "غير مثمر"
+  },
+
+
+  "information_offre": "معلومات العرض",
+  "type_offre": "نوع العرض",
+  "choisissez_type": "اختر النوع",
+  "appel_offre": "دعوة لتقديم العروض",
+  "avis_consultation": "إشعار استشارة",
+  "avis_manifestation": "إشعار إبداء الاهتمام",
+  "langue": "اللغة",
+  "francais": "الفرنسية",
+  "arabe": "العربية",
+  "etat_offre": "حالة العرض",
+  "choisissez_etat": "اختر الحالة",
+    "en_attente": "في الانتظار",
+    "en_cours": "قيد التنفيذ",
+    "valide": "صالح",
+    "infructueux": "غير مثمر",
+    "annule": "ملغى",
+
+  "wilaya": "الولاية",
+  
+    "wilayas": {
+      "Adrar": "أدرار",
+      "Chlef": "الشلف",
+      "Laghouat": "الأغواط",
+      "Oum El Bouaghi": "أم البواقي",
+      "Batna": "باتنة",
+      "Bejaia": "بجاية",
+      "Biskra": "بسكرة",
+      "Béchar": "بشار",
+      "Blida": "بليدة",
+      "Bouira": "بوييرة",
+      "Tamanrasset": "تمنراست",
+      "Tébessa": "تبسة",
+      "Tlemcen": "تلمسان",
+      "Tiaret": "تيارت",
+      "Tizi Ouzou": "تيزي وزو",
+      "Alger": "الجزائر",
+      "Djelfa": "الجلفة",
+      "Jijel": "جيجل",
+      "Sétif": "سطيف",
+      "Saïda": "سعيدة",
+      "Skikda": "سكيكدة",
+      "Sidi Bel Abbès": "سيدي بلعباس",
+      "Annaba": "عنابة",
+      "Guelma": "قالمة",
+      "Constantine": "قسنطينة",
+      "Médéa": "المدية",
+      "Mostaganem": "مستغانم",
+      "M'Sila": "المسيلة",
+      "Mascara": "معسكر",
+      "Ouargla": "ورقلة",
+      "Oran": "وهران",
+      "El Bayadh": "البيض",
+      "Illizi": "عليزي",
+      "Bordj Bou Arréridj": "برج بوعريريج",
+      "Boumerdès": "بومرداس",
+      "El Tarf": "الطارف",
+      "Tindouf": "تندوف",
+      "Tissemsilt": "تيسمسيلت",
+      "El Oued": "الوادي",
+      "Khenchela": "خنشلة",
+      "Souk Ahras": "سوق أهراس",
+      "Tipaza": "تيبازة",
+      "Mila": "ميلة",
+      "Aïn Defla": "عين الدفلى",
+      "Naâma": "ناعمة",
+      "Aïn Témouchent": "عين تيموشنت",
+      "Ghardaïa": "غرداية",
+      "Relizane": "غليزان",
+      "Timimoun": "تيميمون",
+      "Bordj Badji Mokhtar": "برج باجي مختار",
+      "Ouled Djellal": "أولاد جلال",
+      "Béni Abbès": "بني عباس",
+      "In Salah": "عين صالح",
+      "In Guezzam": "عين قزام",
+      "Touggourt": "تقرت",
+      "Djanet": "دجانت",
+      "El M'Ghair": "المغير",
+      "El Menia": "المنية"
+    }
+  ,
+  "choisissez_wilaya": "اختر الولاية",
+  "numero_offre": "رقم العرض",
+  "exemple_numero_offre": "مثال: 12345",
+  "titre_offre": "عنوان العرض",
+  "exemple_titre_offre": "مثال: مشروع بناء",
+"niveau": "المستوى",
+  "choisissez_niveau": "اختر المستوى",
+    "national": "وطني",
+    "international": "دولي",
+  "date_publication": "تاريخ النشر",
+  "date_limite": "تاريخ النهاية",
+  "date_prorogation": "تاريخ التمديد",
+  "description": "الوصف",
+  "detaillez_informations": "قم بتفصيل المعلومات هنا...",
+  "etat": "الحالة",
+  "en_redaction": "قيد التحرير",
+  "publiee": "منشور",
+  "supprimee": "محذوف",
+  "ajouter_lots": "إضافة دفعات",
+  "liste_lots": "قائمة الدفعات",
+  "numero_lot": "رقم الدفعة",
+  "exemple_numero_lot": "مثال: 1",
+  "description_lot": "وصف الدفعة",
+  "description_lot_placeholder": "أدخل وصف الدفعة هنا...",
+  "ajouter_un_lot": "إضافة دفعة",
+  "document_pdf": "وثيقة PDF",
+  
+  "document": "الوثيقة",
+  "voir_document": "عرض الوثيقة",
+  "modifier": "تعديل",
+  "document_annulation": "وثيقة الإلغاء",
+  "document_infructueux": "وثيقة غير مثمرة",
+  "document_prorogation": "وثيقة التمديد",
+
+  "journal": "وثيقة الجريدة",
+  "header": {
+    "mainTitle": "مرحبًا بكم في البوابة الرسمية",
+    "subTitle": "لإعلانات المناقصات",
+    "tagline": "وصول عادل وشفاف إلى أسواق قطاع البريد والاتصالات",
+    "consultOffers": "استعرض العروض",
+    "createAccount": "إنشاء حساب"
+  },
+  "lot": {
+    "number": "رقم الحصة",
+    "description": "وصف الحصة",
+    "status": "الحالة",
+    "En cours": "قيد التنفيذ",
+    "Annulé": "ملغاة",
+    "Attribué": "مخصصة",
+    "notSpecified": "غير محدد"
+  },
+  "howItWorks": {
+     "processTitle":"عمليتنا في خطوات واضحة",
+       "step": "الخطوة",
+    "createAccount": {
+      "title": "إنشاء حساب",
+      "desc": "سجل للوصول إلى جميع الميزات."
+    },
+    "searchOffers": {
+      "title": "البحث عن العروض",
+      "desc": "ابحث عن العروض التي تناسب احتياجاتك."
+    },
+    "submitDocuments": {
+      "title": "إرسال المستندات",
+      "desc": "قم بتحميل مستنداتك بسهولة."
+    },
+    "trackSubmission": {
+      "title": "تتبع الإرساليات",
+      "desc": "تابع حالة الإرساليات الخاصة بك."
+    }
+  },
+  "improve_portal": "حسن البوابة",
+  "share_suggestions": "شارك اقتراحاتك لتشكيل تطور المنصة.",
+  "every_contribution_counts": "كل مساهمة لها قيمة",
+  "email": "البريد الإلكتروني",
+  "your_idea": "فكرتك الرائعة",
+  "submit_suggestion": "إرسال الاقتراح",
+  "favorites": {
+    "title": "المفضلة الخاصة بك"
+  },
+     "soumissions": {
+      "title": "حالة التقديم"
+     
+  },
+  "submissionModal": {
+    "title": "تقديم العرض",
+    "userInfo": "معلومات المستخدم",
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "civility": "اللقب",
+    "function": "الوظيفة",
+    "offerDetails": "تفاصيل العرض",
+    "offerNumber": "الرقم",
+    "offerTitle": "العنوان",
+    "description": "الوصف",
+    "publicationDate": "تاريخ النشر",
+    "deadline": "تاريخ الانتهاء",
+    "extensionDate": "تاريخ التمديد",
+    "offerType": "نوع العرض",
+    "wilaya": "الولاية",
+    "offerStatus": "حالة العرض",
+    "document": "الوثيقة",
+    "viewDocument": "عرض الوثيقة",
+    "additionalDetails": "تفاصيل التقديم (اختياري)",
+    "enterDetails": "أدخل تفاصيل إضافية حول تقديمك...",
+    "submissionDocuments": "وثائق التقديم",
+    "documentTitle": "عنوان الوثيقة",
+    "removeDocument": "حذف هذه الوثيقة",
+    "addDocument": "إضافة وثيقة",
+    "cancel": "إلغاء",
+    "submit": "إرسال"
+  }
+}

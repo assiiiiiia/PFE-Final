@@ -1,4 +1,4 @@
-# Safqatic — Plateforme de Gestion d'Appels d'Offres
+# Safqatic Plateforme de Gestion d'Appels d'Offres
 
 > Projet de Fin d'Études (Licence) — Plateforme web permettant la publication, la consultation et la soumission d'appels d'offres publics/privés, avec gestion multi-rôles et tableau de bord statistique.
 
